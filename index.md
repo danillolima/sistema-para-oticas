@@ -1,5 +1,4 @@
-## Sistema gerenciador para óticas
+## Sistema gerenciador para óticas gratuito
 
-Sistema gerenciador de óticas grátis.
 
 ###
